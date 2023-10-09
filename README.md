@@ -13,10 +13,10 @@
           如果不相同，说明校验不通过.
 
 #### 给出字母数字的对应值表：
-![image](https://github.com/singebogo/9-VINCodeRule/assets/位的加权值表.png)
+![image](https://github.com/singebogo/9-VINCodeRule/tree/master/assets/位的加权值表.png)
 
 #### 给出位的加权值表：
-![image](https://github.com/singebogo/9-VINCodeRule/assets/字母数字的对应值表.png)
+![image](https://github.com/singebogo/9-VINCodeRule/tree/master/assets/字母数字的对应值表.png)
 
 ### 举个例子：
   WBAXW1104J0X16755，验证如下：
@@ -35,4 +35,4 @@
 			
 
 ### 运行效果图
-![image](https://github.com/singebogo/9-VINCodeRule/assets/9-VINRules.png)
+![image](https://github.com/singebogo/9-VINCodeRule/tree/master/assets/9-VINRules.png)
